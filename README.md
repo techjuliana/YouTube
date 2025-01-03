@@ -8,7 +8,7 @@ Nosso canal é dedicado a ensinar programação de forma simples, prática e div
 
 ## 🏆 Destaques da Comunidade
 
-Se você criou algo incrível baseado nos tutoriais, queremos ver! Envie-nos suas criações e destacaremos os melhores projetos aqui.
+Se você criou algo incrível baseado nos tutoriais, queremos ver! Envie-nos suas criações no   <a href="https://www.linkedin.com/in/techjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> e destacaremos os melhores projetos lá.
 
 ## 📂 Estrutura do Repositório
 
